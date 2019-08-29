@@ -1,0 +1,3 @@
+#Day two: working with git
+
+waiting to work on git kinda...
